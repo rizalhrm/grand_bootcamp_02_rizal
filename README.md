@@ -10,7 +10,7 @@ Nomor 4 : Menghitung Uang Kembalian
 
 Nomor 5 : Menghitung Jumlah Berjabat Tangan
 
-Nomor 6 : Membuat Table Database MySql, relasi antar table, dan mengisi table
+Nomor 6 : Membuat Query  pada Table Database MySql
 
     Menggunakan XAMPP phpMyAdmin dan MySQLi (Database terlampir)
 
